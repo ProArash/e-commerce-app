@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--    light colors-->
+    <color name="green">#23AA49</color>
+    <color name="light_green">#6BA821</color>
+    <color name="lighter_green">#D3EEDB</color>
+    <color name="light_grey">#EDEDED</color>
+    <color name="grey">#BCBCBC</color>
+    <color name="dark_grey">#232323</color>
+
+    <!--    dark colors-->
+    <color name="dark_bg">#0D1F29</color>
+    <color name="dark_blue">#1A3848</color>
+    <color name="blue_grey">#2E414C</color>
+    <color name="light_blue_grey">#617986</color>
+</resources>

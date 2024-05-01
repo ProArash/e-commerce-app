@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    margin & padding size-->
+    <dimen name="ss_margin">4dp</dimen>
+    <dimen name="s_margin">8dp</dimen>
+    <dimen name="m_margin">12dp</dimen>
+    <dimen name="l_margin">16dp</dimen>
+    <dimen name="xl_margin">20dp</dimen>
+    <dimen name="xxl_margin">24dp</dimen>
+
+
+<!--    font size-->
+    <dimen name="ss_font">10sp</dimen>
+    <dimen name="s_font">12sp</dimen>
+    <dimen name="m_font">14sp</dimen>
+    <dimen name="l_font">18sp</dimen>
+    <dimen name="xl_font">24sp</dimen>
+    <dimen name="xxl_font">28sp</dimen>
+
+<!--    other-->
+    <dimen name="touch_size">48dp</dimen>
+    <dimen name="logo_size">120dp</dimen>
+</resources>

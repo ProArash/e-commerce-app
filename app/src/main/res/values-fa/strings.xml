@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">بقالی</string>
+    <string name="intro_text">Get your groceries delivered to your home</string>
+    <string name="intro_caption">The bes delivery app in town for delivering your daily fresh groceries</string>
+    <string name="shop_now">Shop now</string>
+    <string name="sing_in">Sing in</string>
+    <string name="sign_in_caption">We will send you a verification code</string>
+    <string name="sign_in_title">Enter your email address</string>
+    <string name="example_email">example@mail.com</string>
+    <string name="continue_text">Continue</string>
+    <string name="term_of_use">By clicking on \'Continue\' button your are agreeing to our terms of use</string>
+    <string name="search_category">Search category</string>
+</resources>
